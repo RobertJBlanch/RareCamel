@@ -1,4 +1,6 @@
 main:
+  - title: "Store"
+    url: /Store/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
